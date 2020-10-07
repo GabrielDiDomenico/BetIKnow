@@ -1,0 +1,15 @@
+
+guess(sachiel)   :- sachiel, !.
+guess(shamshel)   :- shamshel, !.
+guess(ramiel)   :- ramiel, !.
+guess(gaghiel)   :- gaghiel, !.
+guess(israfel)   :- israfel, !.
+guess(sandalphon)   :- sandalphon, !.
+guess(matarael)   :- matarael, !.
+guess(sahaquiel)   :- sahaquiel, !.
+guess(ireul)   :- ireul, !.
+guess(leliel)   :- leliel, !.
+guess(bardiel)   :- bardiel, !.
+guess(zeruel)   :- zeruel, !.
+guess(arael)   :- arael, !.
+guess(armisael)   :- armisael, !.
